@@ -1,4 +1,25 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<p align="center">
+  <h2 align="center"><samp>Hi there 👋</samp></h2>
+</p>
+
+<p align="center">
+  <samp>
+    I love connecting with different people so if you want to say hi, I'll
+    be happy to meet you! :)
+    <br />
+    m currently looking for full-time Software Engineering / FullStack JS Developer opportunities !! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
+    
+    <br />
+    <br />
+    <a href="https://thelorda.github.io/resume/">About Me</a>
+    ·
+    <a href="mailto:ferrak.anass@gmail.com">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/anass-ferrak/">LinkedIn</a>
+  </samp>
+</p>
 
 <!--
 **TheLordA/theLorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
