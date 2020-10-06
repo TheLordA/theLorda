@@ -10,7 +10,6 @@
     be happy to meet you! :)
     <br />
     m currently looking for full-time Software Engineering / FullStack JS Developer opportunities !! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me.
-    
     <br />
     <br />
     <a href="https://thelorda.github.io/resume/">About Me</a>
